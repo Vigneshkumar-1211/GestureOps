@@ -13,7 +13,7 @@
 
 ## 🏗️ Architecture
 
-![GestureOps Architecture](image.png)
+![GestureOps Architecture](Image.png)
 
 ---
 
