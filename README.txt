@@ -37,6 +37,17 @@
 
 ---
 
+## 🗂️ Project Structure
+
+```
+GestureOps/
+└── GestureOps/
+    ├── gesture_ops.py       # Core gesture detection and system control logic
+    └── ...                  # Supporting modules
+```
+
+---
+
 ## 🛠️ Tech Stack
 
 | Component | Library / Tool |
@@ -129,13 +140,6 @@ Contributions are welcome! To contribute:
 Please follow consistent code style and add comments where appropriate.
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
 **Vigneshkumar**
