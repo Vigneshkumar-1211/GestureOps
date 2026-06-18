@@ -15,15 +15,15 @@
 
 ---
 
-## 📌 Overview
-
-**GestureOps** is a real-time hand gesture recognition system built in Python that maps hand gestures captured via webcam to system-level operations. Leveraging **MediaPipe** for landmark detection and **OpenCV** for frame processing, GestureOps enables touchless interaction with your computer — ideal for accessibility use cases, presentations, smart environments, and HCI research.
-
----
-
 ## 🏗️ Architecture
 
 ![GestureOps Architecture](image.png)
+
+---
+
+## 📌 Overview
+
+**GestureOps** is a real-time hand gesture recognition system built in Python that maps hand gestures captured via webcam to system-level operations. Leveraging **MediaPipe** for landmark detection and **OpenCV** for frame processing, GestureOps enables touchless interaction with your computer — ideal for accessibility use cases, presentations, smart environments, and HCI research.
 
 ---
 
